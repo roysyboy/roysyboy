@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roysyboy
-- 👀 I’m interested in algorithm development
-- 🌱 I’m currently learning computer science @stanford
+- 👀 I’m interested in algorithms, graph theory, web apps, and more
+- 🌱 I’m currently learning machine learning, modularity, networks, threads at Stanford University
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me rpark3@stanford.edu
 
